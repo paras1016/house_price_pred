@@ -8,4 +8,4 @@ total number of files: 5
 4. test.csv: testing datafile.
 5. house_prediction_competition.ipynb: it is a jupyter nootbook file.
 
-submission file can be created by storing predicion of testing datafile using pd.to_csv method.
+submission file can be created by storing predicion of test.csv datafile using pd.to_csv method.
