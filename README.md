@@ -6,6 +6,6 @@ total number of files: 5
 2. house_prediction_data_report_minimal: Minimal profile report of training dataset for quick overview of training data.
 3. train.csv: training datafile.
 4. test.csv: testing datafile.
-5. house_prediction_competition.ipynb: it is a jupyter nootbook file.
+5. house_prediction_competition.ipynb: it is a jupyter notebook file.
 
 submission file can be created by storing predicion of test.csv datafile using pd.to_csv method.
